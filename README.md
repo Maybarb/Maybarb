@@ -1,11 +1,11 @@
 ### Olá, Mayara Barbosa aqui! ❤️
 
 
-- 🔭 Procuro oportunidade em back-end.
-- 🌱 Estou estudando .Net, EFCore, Python e SQL com MySQL.
+- 💻 Dev back-end jr. 
+- 🌱 .Net, Python, SQL.
 - 📫 email: mayara.barbosaas@gmail.com
 - 😄 Pronouns: her/she
-- ⚡ curiosity: Estou em transição de carreira, possuo formação em Química Industrial e curso pós graduação em Engenharia de Software.
+- ⚡ curiosity: Química Industrial pós graduada em Engenharia de Software.
 
 <div align="center">
   <a href="https://github.com/Maybarb">
